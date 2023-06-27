@@ -7,3 +7,5 @@ The following assignment asks to fetch the Youtube channels with google search o
 from googlesearch import search
 ```
 The above search is required to search the query in google and store the links in the list.
+It can be installed using pip: ```python pip install googlesearch-python
+```
