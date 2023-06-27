@@ -17,4 +17,6 @@ The above function in the code requires two parameters: a query and `max_results
 
 Finally, the function saves the resulting YouTube channel links in a file named 'youtube_links.csv'. This file contains all the links to the YouTube channels based on the provided search query.
 
-#### You can find the results in the uploaded video.
+The code typically takes around 10-12 seconds to execute, depending on various factors such as network speed, system resources, and the number of search results requested. The execution time may vary slightly in different environments and conditions.
+
+#### The results can be found in the accompanying video that has been uploaded.
