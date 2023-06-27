@@ -1,4 +1,4 @@
-# Listed_Assingment_Aditya
+# Listed(openinapp)_Assingment_Aditya
 
 ### Problem Statement:
 The assignment requires fetching YouTube channels by performing a Google search for 'openinapp.co'.
